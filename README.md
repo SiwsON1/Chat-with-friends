@@ -1,0 +1,1 @@
+<h1>Real-time chat application with a frontend that prompts for a username and then displays a live message feed. Built with event-driven server-client communication, the server maintains a message array and notifies all clients when a new message is added.</h1>
